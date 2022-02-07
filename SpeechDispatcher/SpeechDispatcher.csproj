@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <PackageId>SpeechDispatcher</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>RastislavKish</Authors>
     <Company></Company>
-    <license>LGPL-2.1-only</license>
+    <PackageLicenseExpression>LGPL-2.1-only</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/RastislavKish/SpeechDispatcher</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <TargetFramework>net6.0</TargetFramework>
